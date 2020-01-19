@@ -1,2 +1,2 @@
 # BigData
-El universo BigData y todo lo que le rodea - @techigd  2019
+Charla en @techigd (2019-03-20) - El universo BigData y todo lo que le rodea
